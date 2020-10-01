@@ -1,22 +1,10 @@
 {
-  "name": "TG URL Uploader",
-  "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
+  "name": "TG Uploader",
+  "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot.",
   "keywords": [
-    "telegram",
-    "best",
-    "youtube",
-    "downloader",
-    "open",
-    "source",
-    "multi",
-    "purpose",
-    "ffmpeg",
-    "remote",
-    "uploader"
+    "telegram"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "repository": "https://github.com/ACHIYA96/AchiDLBotv2",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -40,7 +28,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "510597269 -1001338634999 -1001477240557 -432339225 565628827"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
@@ -49,7 +37,7 @@
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
-      "value": "",
+      "value": "https://images2.imgbox.com/91/66/42pG5o3V_o.png",
       "required": false
     },
     "CHUNK_SIZE": {
